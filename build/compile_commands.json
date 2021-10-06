@@ -1,7 +1,0 @@
-[
-{
-  "directory": "E:/Projects/Personal/practice/asio_practice/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   @CMakeFiles/asio_practice.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\asio_practice.dir\\main.cpp.obj -c E:\\Projects\\Personal\\practice\\asio_practice\\main.cpp",
-  "file": "E:/Projects/Personal/practice/asio_practice/main.cpp"
-}
-]
