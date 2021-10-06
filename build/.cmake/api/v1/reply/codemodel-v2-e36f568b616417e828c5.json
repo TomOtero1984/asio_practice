@@ -18,7 +18,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "asio_practice::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-asio_practice-65eb0cba7f002b058284.json",
+					"jsonFile" : "target-asio_practice-Debug-f916b5d2a6712ec3a276.json",
 					"name" : "asio_practice",
 					"projectIndex" : 0
 				}
